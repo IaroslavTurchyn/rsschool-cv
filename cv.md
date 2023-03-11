@@ -18,3 +18,7 @@ This year, I've been very interested in programming. I learned it on my own Java
 2. Bootstrap;
 3. SCSS & SASS ;
 4. JS basic.
+
+### Language:
+Ukrainian- native;
+English-A2;
